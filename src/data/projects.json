@@ -1,0 +1,6 @@
+[
+    { "id": 1, "title": "Portfolio site", "description": "Next.js + TS portfolio" },
+    { "id": 2, "title": "E-commerce store", "description": "Products, cart, checkout" },
+    { "id": 3, "title": "Social app", "description": "Feed, likes, comments" }
+  ]
+  
