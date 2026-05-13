@@ -1,6 +1,26 @@
 [
-    { "id": 1, "title": "Portfolio site", "description": "Next.js + TS portfolio" },
-    { "id": 2, "title": "E-commerce store", "description": "Products, cart, checkout" },
-    { "id": 3, "title": "Social app", "description": "Feed, likes, comments" }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Portfolio Site",
+    "description": "A personal portfolio built with Next.js, TypeScript, and Tailwind CSS.",
+    "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "github": "https://github.com/RahulRex0/-portfolio",
+    "live": ""
+  },
+  {
+    "id": 2,
+    "title": "E-commerce Store",
+    "description": "A future online store with products, cart, checkout, and admin features.",
+    "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"],
+    "github": "",
+    "live": ""
+  },
+  {
+    "id": 3,
+    "title": "Social App Clone",
+    "description": "A future Twitter/Instagram-style app with feed, likes, comments, and user profiles.",
+    "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "github": "",
+    "live": ""
+  }
+]
