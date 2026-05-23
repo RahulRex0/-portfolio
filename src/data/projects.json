@@ -5,15 +5,15 @@
     "description": "A personal portfolio built with Next.js, TypeScript, and Tailwind CSS.",
     "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
     "github": "https://github.com/RahulRex0/-portfolio",
-    "live": ""
+    "live": "https://portfolio-one-opal-89.vercel.app/"
   },
   {
     "id": 2,
     "title": "E-commerce Store",
     "description": "A future online store with products, cart, checkout, and admin features.",
     "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"],
-    "github": "",
-    "live": ""
+    "github": "https://github.com/RahulRex0/ecommerce-store",
+    "live": "https://ecommerce-store-nine-amber.vercel.app/"
   },
   {
     "id": 3,
