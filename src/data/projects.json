@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Portfolio Site",
-    "description": "A personal portfolio built with Next.js, TypeScript, and Tailwind CSS.",
-    "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
-    "github": "https://github.com/RahulRex0/-portfolio",
-    "live": "https://portfolio-one-opal-89.vercel.app/"
+    "title": "Ai Resume Analyzer",
+    "description": "An AI-powered resume analyzer that compares a resume with a job description and gives improvement suggestions using Next.js, TypeScript, and the Gemini API.",
+    "tech": ["Next.js", "TypeScript", "React", "Gemini API "],
+    "github": "https://github.com/RahulRex0/AI-resume-analyzer",
+    "live": "https://ai-resume-analyzer-seven-umber.vercel.app/"
   },
   {
     "id": 2,
@@ -17,10 +17,11 @@
   },
   {
     "id": 3,
-    "title": "Social App Clone",
-    "description": "A future Twitter/Instagram-style app with feed, likes, comments, and user profiles.",
+    "title": "Portfolio Site",
+    "description": "A personal portfolio built with Next.js, TypeScript, and Tailwind CSS.",
     "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
-    "github": "",
-    "live": ""
+    "github": "https://github.com/RahulRex0/-portfolio",
+    "live": "https://portfolio-one-opal-89.vercel.app/"
   }
+
 ]
